@@ -1,24 +1,9 @@
 # vuex-basic
 
-## Project setup
-```
-npm install
-```
+『これからはじめるVue.js実践入門』(https://www.sbcr.jp/product/4815601829/) の 『Chapter9 Vuex』を学習中
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+かんたんなカウンターアプリ
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## デプロイ先
+https://hungry-agnesi-c3398b.netlify.app
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
